@@ -1,1 +1,1 @@
-console.log("Thrive JC Loaded")
+console.log("Thrive JC Loaded!")
